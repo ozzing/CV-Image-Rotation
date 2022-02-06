@@ -1,0 +1,64 @@
+﻿  main.cpp
+C:\Users\wndjw\OneDrive\바탕 화면\Image_rotation_exercise\Image_Rotation\main.cpp(31,51): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\wndjw\OneDrive\바탕 화면\Image_rotation_exercise\Image_Rotation\main.cpp(31,35): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\wndjw\OneDrive\바탕 화면\Image_rotation_exercise\Image_Rotation\main.cpp(43,32): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wndjw\OneDrive\바탕 화면\Image_rotation_exercise\Image_Rotation\main.cpp(43,28): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wndjw\OneDrive\바탕 화면\Image_rotation_exercise\Image_Rotation\main.cpp(44,32): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wndjw\OneDrive\바탕 화면\Image_rotation_exercise\Image_Rotation\main.cpp(44,28): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wndjw\OneDrive\바탕 화면\Image_rotation_exercise\Image_Rotation\main.cpp(45,32): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wndjw\OneDrive\바탕 화면\Image_rotation_exercise\Image_Rotation\main.cpp(45,28): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wndjw\OneDrive\바탕 화면\Image_rotation_exercise\Image_Rotation\main.cpp(79,42): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\wndjw\OneDrive\바탕 화면\Image_rotation_exercise\Image_Rotation\main.cpp(79,29): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\wndjw\OneDrive\바탕 화면\Image_rotation_exercise\Image_Rotation\main.cpp(80,50): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\wndjw\OneDrive\바탕 화면\Image_rotation_exercise\Image_Rotation\main.cpp(80,37): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\wndjw\OneDrive\바탕 화면\Image_rotation_exercise\Image_Rotation\main.cpp(94,62): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wndjw\OneDrive\바탕 화면\Image_rotation_exercise\Image_Rotation\main.cpp(94,59): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wndjw\OneDrive\바탕 화면\Image_rotation_exercise\Image_Rotation\main.cpp(95,62): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wndjw\OneDrive\바탕 화면\Image_rotation_exercise\Image_Rotation\main.cpp(95,59): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wndjw\OneDrive\바탕 화면\Image_rotation_exercise\Image_Rotation\main.cpp(96,62): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wndjw\OneDrive\바탕 화면\Image_rotation_exercise\Image_Rotation\main.cpp(96,59): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wndjw\OneDrive\바탕 화면\Image_rotation_exercise\Image_Rotation\main.cpp(132,42): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\wndjw\OneDrive\바탕 화면\Image_rotation_exercise\Image_Rotation\main.cpp(132,29): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\wndjw\OneDrive\바탕 화면\Image_rotation_exercise\Image_Rotation\main.cpp(133,50): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\wndjw\OneDrive\바탕 화면\Image_rotation_exercise\Image_Rotation\main.cpp(133,37): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+  _2Image_Rotation.vcxproj -> C:\Users\wndjw\OneDrive\바탕 화면\Image_rotation_exercise\Debug\Image_Rotation.exe
